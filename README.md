@@ -1,8 +1,8 @@
 <div align="left">
-<img src=".github/screenshot.jpg" />
+<img src=".github/screenshot.jpg" width="100" />
 </div>
 
-<div align="center">
+<div align="right">
 
 # Modern UI
 
