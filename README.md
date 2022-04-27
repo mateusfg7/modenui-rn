@@ -1,6 +1,14 @@
+<div align="left">
+<img src=".github/screenshot.jpg" />
+</div>
+
+<div align="center">
+
 # Modern UI
 
 A React Native/Expo app made following the Youtube video [Criando interfaces modernas com React Native - Decode #015](https://www.youtube.com/watch?v=cWD_hMoge-0)
+
+</div>
 
 ## Notes
 
